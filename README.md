@@ -9,8 +9,8 @@ todos-list:
 - clean edit
 
 ## Merge all the sub-Tab in one Tab
--> finish cleaning
--> create a file_cleaning_generator:
+- finish cleaning
+- create a file_cleaning_generator:
  
   ```python
   for pdf_file in PdfFileList:
