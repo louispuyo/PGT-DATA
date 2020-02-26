@@ -18,3 +18,9 @@ todos-list:
   
   ```
     
+## DJ-pkg
+#### setup:
+$ pipenv shell
+$ pipenv update
+$ python3 setup.py run
+$ sh start.sh
