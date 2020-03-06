@@ -1,0 +1,11 @@
+README.md
+setup.py
+application/__init__.py
+application/assets.py
+application/routes.py
+plotly_flask_tutorial.egg-info/PKG-INFO
+plotly_flask_tutorial.egg-info/SOURCES.txt
+plotly_flask_tutorial.egg-info/dependency_links.txt
+plotly_flask_tutorial.egg-info/entry_points.txt
+plotly_flask_tutorial.egg-info/requires.txt
+plotly_flask_tutorial.egg-info/top_level.txt
